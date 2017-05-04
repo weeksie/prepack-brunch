@@ -1,0 +1,17 @@
+/node_modules
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+*_flymake.*
+flycheck_*.*
+
+# Mac garbage
+.DS_Store

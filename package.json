@@ -1,0 +1,30 @@
+{
+  "name": "prepack-brunch",
+  "version": "0.1.0",
+  "description": "Prepack plugin for Brunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weeksie/prepack-brunch.git"
+  },
+  "keywords": [
+    "prepack",
+    "brunch"
+  ],
+  "author": "Scotty Weeks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weeksie/prepack-brunch/issues"
+  },
+  "homepage": "https://github.com/weeksie/prepack-brunch#readme",
+  "dependencies": {
+    "prepack": "^0.2.0"
+  },
+    "devDependencies": {
+    "chai": "~1.9.0",
+    "mocha": "~1.17.1"
+  }
+}

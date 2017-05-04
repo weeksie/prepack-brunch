@@ -1,11 +1,7 @@
 'use strict';
 
 const Prepack              = require('prepack'),
-      prepack              = Prepack.prepack;/*,
-      __assumeDataProperty = Prepack.__assumeDataProperty,
-      __abstract           = Prepack.__abstract;
-*/
-
+      prepack              = Prepack.prepack;
 
 class PrepackOptimizer {
   constructor(config) {
